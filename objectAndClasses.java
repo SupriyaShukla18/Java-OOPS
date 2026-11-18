@@ -24,20 +24,20 @@ public class objectAndClasses{
     }
 }
 
- class Student{
-    //these all are the characters of the object
-    String name;
-     int roll_no;
-     int age;
-     String college;
+//  class Student{
+//     //these all are the characters of the object
+//     String name;
+//      int roll_no;
+//      int age;
+//      String college;
 
-// these are the behaviour of the object
-      void markMyAttendence(){
-        System.out.println("my attendence has been marked "+ name);
-     }
-     void print(){
-        System.out.println(" name " +name+ " roll_no " +roll_no+ " age " +age+ " college "+ college );
+// // these are the behaviour of the object
+//       void markMyAttendence(){
+//         System.out.println("my attendence has been marked "+ name);
+//      }
+//      void print(){
+//         System.out.println(" name " +name+ " roll_no " +roll_no+ " age " +age+ " college "+ college );
 
-     }
+//      }
 
-}
+// }
